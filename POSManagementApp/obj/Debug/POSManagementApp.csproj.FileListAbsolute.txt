@@ -1,0 +1,13 @@
+D:\BIMT\POSManagementApp\POSManagementApp\bin\Debug\POSManagementApp.exe.config
+D:\BIMT\POSManagementApp\POSManagementApp\bin\Debug\POSManagementApp.exe
+D:\BIMT\POSManagementApp\POSManagementApp\bin\Debug\POSManagementApp.pdb
+D:\BIMT\POSManagementApp\POSManagementApp\obj\Debug\POSManagementApp.csprojResolveAssemblyReference.cache
+D:\BIMT\POSManagementApp\POSManagementApp\obj\Debug\POSManagementApp.UI.AddProductUI.resources
+D:\BIMT\POSManagementApp\POSManagementApp\obj\Debug\POSManagementApp.AdminUI.resources
+D:\BIMT\POSManagementApp\POSManagementApp\obj\Debug\POSManagementApp.Properties.Resources.resources
+D:\BIMT\POSManagementApp\POSManagementApp\obj\Debug\POSManagementApp.UI.ShowProductUI.resources
+D:\BIMT\POSManagementApp\POSManagementApp\obj\Debug\POSManagementApp.csproj.GenerateResource.Cache
+D:\BIMT\POSManagementApp\POSManagementApp\obj\Debug\POSManagementApp.exe
+D:\BIMT\POSManagementApp\POSManagementApp\obj\Debug\POSManagementApp.pdb
+D:\BIMT\POSManagementApp\POSManagementApp\obj\Debug\POSManagementApp.UI.ProductBrandUI.resources
+D:\BIMT\POSManagementApp\POSManagementApp\obj\Debug\POSManagementApp.UI.ProductCategoryUI.resources
